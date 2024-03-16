@@ -54,6 +54,6 @@ Some screenshots of the Application:
   </tr>
  </table>
  </p>
- APP APK LINK
- [a link](https://drive.google.com/file/d/1r1OqA_TutgfEnFzUPvXrVWO6hXk_UM89/view?usp=drive_link)
+ APP APK LINK  (https://drive.google.com/file/d/1r1OqA_TutgfEnFzUPvXrVWO6hXk_UM89/view?usp=drive_link)
+ APP VIDEO LINK (https://drive.google.com/file/d/1FdGChvytEWu6XuvTAx6Px8uGDDsmH7AX/view?usp=drive_link)
 # FEEDZIE
