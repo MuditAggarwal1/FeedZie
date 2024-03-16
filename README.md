@@ -50,8 +50,7 @@ Some screenshots of the Application:
     <td>About Screen</td>
   </tr>
   <tr>
-
-    <td><img src="https://user-images.githubusercontent.com/54005333/147683224-83af7bc1-f8c6-4b6b-bd26-3ec9b13813a3.png" width="220"></td>
+    <td><https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/355eae04-00c5-4e5d-be71-0f7e66dcc347" width="220"></td>
   </tr>
  </table>
  </p>
