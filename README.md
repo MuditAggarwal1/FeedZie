@@ -1,11 +1,11 @@
 <div align="justify">
-In highly populated countries like India, food wastage is a disturbing issue. The streets, garbage bins and landfills have ample proof to prove it. Marriages, canteens, restaurants, social and family get-togethers and functions expel out so much food. Food wastage is not only an indication of hunger or pollution, but also of many economic problems. The high standard of living has resulted in the wastage of food, clothes, etc. because of quick changes in habits and lifestyle. Instead of wasting these things we can put them in use by donating them to various organizations such as orphanages, old age homes, etc. The product is an internet-based android application that basically aims at charity through donations.
+In densely populated countries like India, the issue of food wastage looms large. Evidence abounds in the form of overflowing streets, brimming garbage bins, and sprawling landfills. Food wastage signifies not only hunger and pollution but also economic challenges. The modern lifestyle, characterized by rapid changes in habits and preferences, contributes to the squandering of food, clothing, and other resources.
 
-The proposed application shall reduce food wastage and also fulfill other requirements like clothes, books, utensils, etc. of needy organizations and peoples. 
+Rather than discarding these valuable items, we can channel them toward a noble cause by donating to various organizations, including orphanages and old age homes. Our internet-based Android application focuses on charitable endeavors through donations. Not only does it tackle food wastage, but it also addresses other needs such as clothing, books, and utensils for those in need.
 
-As mentioned above in the description there is a lot of food wastage that occurs daily at restaurants and cafes. Instead of throwing away the same as trash (which usually is the scenario), it can be used to feed the homeless. Also, since the pickup is arranged for by the enterprise, the restaurants/cafes need not worry about it. Benefiters will be both the restaurants/cafés (reducing the carbon footprint and wastage), and the needy. 
+Consider the daily surplus of food in restaurants and cafes—a common occurrence. Instead of consigning it to the trash, this excess can nourish the homeless. With pickup arrangements facilitated by the enterprise, restaurants and cafes can participate without hassle. The beneficiaries include both these establishments (reducing their carbon footprint and waste) and the underprivileged.
 
-The ultimate objective of this project is to communicate that investments in food wastage reduction is the most logical step in the pursuit of sustainable production and consumption, including food security, climate change and other adverse environmental effects. Public awareness materials and a strategy will be developed to this effect.
+Our project’s ultimate goal is to emphasize that investing in food wastage reduction is a logical step toward sustainable production and consumption. This encompasses food security, climate change mitigation, and other environmental concerns. We plan to develop public awareness materials and a strategic approach to achieve this mission.
 </div>
 
 Flowchart of the working of the application:
@@ -18,14 +18,14 @@ Some screenshots of the Application:
 <p align="center" float="left">
 <table>
   <tr>
-    <td>Splash Screen</td>
     <td>Home Screen</td>
     <td>Register Screen</td>
     <td>Login Screen</td>
+    <td>Dashboard Screen</td>
   </tr>
   <tr>
     <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/e610a67a-5024-44fb-b92a-539ca7c6171b" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682390-c4d23438-4e4a-4eff-9471-5f881618c16f.png" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/a1ef6997-b43a-4826-85b1-5e9077851737" width="220"></td>
     <td><img src="https://user-images.githubusercontent.com/54005333/147682402-6a9917ae-0734-4b37-a8ef-bfcc0f49f537.png" width="220"></td>
     <td><img src="https://user-images.githubusercontent.com/54005333/147682393-903ff2a0-2aac-48d4-92a5-0d3e2f403a84.png" width="220"></td>
   </tr>
