@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 <div align="justify">
 In highly populated countries like India, food wastage is a disturbing issue. The streets, garbage bins and landfills have ample proof to prove it. Marriages, canteens, restaurants, social and family get-togethers and functions expel out so much food. Food wastage is not only an indication of hunger or pollution, but also of many economic problems. The high standard of living has resulted in the wastage of food, clothes, etc. because of quick changes in habits and lifestyle. Instead of wasting these things we can put them in use by donating them to various organizations such as orphanages, old age homes, etc. The product is an internet-based android application that basically aims at charity through donations.
 
@@ -27,7 +24,7 @@ Some screenshots of the Application:
     <td>Login Screen</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682387-33b613c2-86a7-4622-80a0-0560e4733716.png" width="220"></td>
+    <td><img src="https://drive.google.com/file/d/1DVH5fs7R1OUTJz4aW_uwV7xL0KSKnufV/view?usp=drive_link" width="220"></td>
     <td><img src="https://user-images.githubusercontent.com/54005333/147682390-c4d23438-4e4a-4eff-9471-5f881618c16f.png" width="220"></td>
     <td><img src="https://user-images.githubusercontent.com/54005333/147682402-6a9917ae-0734-4b37-a8ef-bfcc0f49f537.png" width="220"></td>
     <td><img src="https://user-images.githubusercontent.com/54005333/147682393-903ff2a0-2aac-48d4-92a5-0d3e2f403a84.png" width="220"></td>
