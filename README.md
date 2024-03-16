@@ -50,7 +50,7 @@ Some screenshots of the Application:
     <td>About Screen</td>
   </tr>
   <tr>
-    <td><https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/355eae04-00c5-4e5d-be71-0f7e66dcc347" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/355eae04-00c5-4e5d-be71-0f7e66dcc347" width="220"></td>
   </tr>
  </table>
  </p>
