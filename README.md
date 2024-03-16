@@ -26,32 +26,31 @@ Some screenshots of the Application:
   <tr>
     <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/e610a67a-5024-44fb-b92a-539ca7c6171b" width="220"></td>
     <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/a1ef6997-b43a-4826-85b1-5e9077851737" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682402-6a9917ae-0734-4b37-a8ef-bfcc0f49f537.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682393-903ff2a0-2aac-48d4-92a5-0d3e2f403a84.png" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/f753ffcd-5517-42e3-8390-510a4c44ab2d" width="220"></td>
+    <td><img src="https://user-images.githubusercontent.com/54005333/147682382-a0a2671d-6160-44d5-a4fb-dab764103ca4.png" width="220"></td>
   </tr>
  </table>
  <table>
   <tr>
-    <td>Dashboard Screen</td>
     <td>Donate Screen</td>
     <td>Receive Screen</td>
     <td>Food Map Screen</td>
+    <td>History Screen</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682382-a0a2671d-6160-44d5-a4fb-dab764103ca4.png" width="220"></td>
     <td><img src="https://user-images.githubusercontent.com/54005333/147682397-00db142f-8817-47d5-b23d-e67aef63ea02.png" width="220"></td>
     <td><img src="https://user-images.githubusercontent.com/54005333/147682399-7f6ba8ba-0805-4797-9af1-8994707c9adb.png" width="220"></td>
     <td><img src="https://user-images.githubusercontent.com/54005333/147683214-c1795ace-d312-40f2-9b1f-72a855ea27bd.png" width="220"></td>
+    <td><img src="https://user-images.githubusercontent.com/54005333/147683209-1f154899-b993-43e2-8536-d8fceb61cbe5.png" width="220"></td>
   </tr>
  </table>
  </table>
  <table>
   <tr>
-    <td>History Screen</td>
     <td>About Screen</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147683209-1f154899-b993-43e2-8536-d8fceb61cbe5.png" width="220"></td>
+
     <td><img src="https://user-images.githubusercontent.com/54005333/147683224-83af7bc1-f8c6-4b6b-bd26-3ec9b13813a3.png" width="220"></td>
   </tr>
  </table>
