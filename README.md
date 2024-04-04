@@ -24,7 +24,7 @@ Some screenshots of the Application:
     <td>Dashboard Screen</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/e610a67a-5024-44fb-b92a-539ca7c6171b" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/FeedZie/assets/135834440/08c13472-c5b4-4e86-aabc-5e027d8d77c6" width="220"></td>
     <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/a1ef6997-b43a-4826-85b1-5e9077851737" width="220"></td>
     <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/f753ffcd-5517-42e3-8390-510a4c44ab2d" width="220"></td>
     <td><img src="https://user-images.githubusercontent.com/54005333/147682382-a0a2671d-6160-44d5-a4fb-dab764103ca4.png" width="220"></td>
@@ -50,11 +50,11 @@ Some screenshots of the Application:
     <td>About Screen</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/355eae04-00c5-4e5d-be71-0f7e66dcc347" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/FeedZie/assets/135834440/2f95a22d-0745-428d-9b24-f94358fa2a1a" width="220"></td>
   </tr>
  </table>
  </p>
- APP APK LINK  (https://drive.google.com/file/d/1r1OqA_TutgfEnFzUPvXrVWO6hXk_UM89/view?usp=drive_link)
+ APP APK LINK  (https://drive.google.com/file/d/1hseSQ0lszpN-kqgFnsOdistNthQy1EXd/view?usp=drive_link)
  
  APP VIDEO LINK (https://drive.google.com/file/d/1FdGChvytEWu6XuvTAx6Px8uGDDsmH7AX/view?usp=drive_link)
 
