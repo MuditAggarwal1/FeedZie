@@ -48,9 +48,11 @@ Some screenshots of the Application:
  <table>
   <tr>
     <td>About Screen</td>
+     <td>App Logo</td>
   </tr>
   <tr>
     <td><img src="https://github.com/MuditAggarwal1/FeedZie/assets/135834440/2f95a22d-0745-428d-9b24-f94358fa2a1a" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/FeedZie/assets/135834440/5a7f1a26-a2c4-4402-bf6d-4e8882c0704f" width="220"></td>
   </tr>
  </table>
  </p>
